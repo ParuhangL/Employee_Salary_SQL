@@ -7,7 +7,7 @@ Features
 2. Assign employees to departments  
 3. Track salary payments  
 4. Generate salary reports  
-5. Implement **Transactions (TCL) for secure updates** 
+5. Implement Transactions (TCL) for secure updates
 6. Restrict access with DCL 
 7. Classify salaries using CASE Statements
 8. Use CTEs & Window Functions for efficient queries  
